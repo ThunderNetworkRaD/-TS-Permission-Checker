@@ -1,6 +1,6 @@
 {
   "name": "permission-checker",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A permission checker for Node JS",
   "main": "./build/index.js",
   "type": "commonjs",
