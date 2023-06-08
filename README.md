@@ -1,4 +1,4 @@
-# template-npm-packages
+# Permission Checker
 
 /!\ We haven't tested it on pure JavaScript and on CommonJS yet.
 
