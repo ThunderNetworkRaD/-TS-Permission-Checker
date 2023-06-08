@@ -17,7 +17,6 @@ function checkSingle(perm: string, reqPerm: string) {
             let i = 0;
             for (const rp of subRP) {
                 i = subRP.findIndex((e) => e === rp)
-                console.log(i, rp, sub[i], subRP.length)
                 if (rp != sub[i]) break; 
                 else i++;
             }
