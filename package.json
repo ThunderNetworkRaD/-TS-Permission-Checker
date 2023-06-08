@@ -1,8 +1,9 @@
 {
   "name": "permission-checker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A permission checker for Node JS",
-  "main": "./build/index.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "type": "commonjs",
   "repository": "https://github.com/ThunderNetworkRaD/TS-Permission-Checker",
   "author": "ThunderNetworkRaD | Killer Boss Original",
